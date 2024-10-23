@@ -103,6 +103,7 @@ ul {
     display: flex;
     flex-direction: column;
     text-align: center;
+    
 }
 
 .image-wrapper p{
@@ -169,7 +170,7 @@ ul {
 }
 .rectangle button{
     background-color: #3882f6;
-   border-color: white;
+    border: 2px solid #F9FAF8;
     font-size: 18px;
     font-weight: 900;
     color: white;
